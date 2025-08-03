@@ -19,8 +19,8 @@ A MERN stack application for corporate ride booking, management, and admin appro
 ### 1. Clone the repo
 
 ```sh
-git clone https://github.com/yourusername/yourrepo.git
-cd yourrepo
+git clone https://github.com/Shyamlisingh27/Corporate_Ride_Scheduling_System.git
+cd Corporate_Ride_Scheduling_System
 ```
 
 ### 2. Backend Setup
