@@ -31,7 +31,7 @@ npm install
 # Create a .env file with:
 # MONGO_URI=your_mongodb_uri
 # JWT_SECRET=your_secret
-# PORT=5000
+# PORT=5001
 npm run dev
 ```
 
