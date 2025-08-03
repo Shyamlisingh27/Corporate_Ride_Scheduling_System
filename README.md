@@ -75,17 +75,28 @@ npm start
 - `JWT_SECRET` — Secret for JWT
 - `PORT` — Backend port (default 5000)
 
-## Deployment
+🎯** Features Implemented**
 
-- Backend: Render, Railway, Heroku, etc.
-- Frontend: Vercel, Netlify, Render, etc.
+🔐 Secure user registration and JWT-based login
 
-## Screenshots
+🎭 Role-based routing (admin vs. user)
 
-_Add screenshots of your UI here!_
+🧑‍💼 Admin dashboard with ride approval/rejection
 
----
+📊 Analytics of daily rides
 
-## License
+📌 Smart ride booking with pickup/drop info
 
-MIT
+📁 AdminAction logs linked to rides
+
+🚨 Email/password reset (in progress or planned)
+
+🧾 Mongoose schema with virtuals, indexes, and validations
+
+🧪 Tech Stack
+Backend: Node.js, Express.js, MongoDB, Mongoose, JWT
+
+Frontend: React.js (with React Router), Axios, TailwindCSS
+
+Others: Toast notifications, protected routes, secure password hashing (bcrypt)
+
